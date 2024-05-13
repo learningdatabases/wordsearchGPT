@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wordsearchGPT", "wordsearchGPT.csproj", "{FAC98549-B5FC-4DDA-BFF9-20F42EDC22A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC98549-B5FC-4DDA-BFF9-20F42EDC22A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC98549-B5FC-4DDA-BFF9-20F42EDC22A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC98549-B5FC-4DDA-BFF9-20F42EDC22A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC98549-B5FC-4DDA-BFF9-20F42EDC22A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {332D90E0-7434-44D1-AD62-FDA068909A69}
+	EndGlobalSection
+EndGlobal
